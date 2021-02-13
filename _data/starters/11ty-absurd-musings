@@ -1,0 +1,6 @@
+{
+	"url": "https://github.com/NoblesseCoder/absurd-musings",
+	"name": "absurd-musings",
+	"description": "A digital garden (and its template) built using 11ty and hosted using netlify.",
+	"demo": "https://absurd-musings.netlify.app/"
+}
